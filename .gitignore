@@ -1,0 +1,9 @@
+.idea
+vnv
+*.yaml
+__init__.py
+*.md
+*.png
+*.txt
+*.json
+*.gif
